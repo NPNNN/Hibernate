@@ -1,0 +1,49 @@
+package in.ineuron.test;
+
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
+import in.ineuron.model.Student;
+import in.ineuron.util.HibernateMySQLUtil;
+
+public class InsertRecordApp2 {
+
+	public static void main(String[] args) throws Exception {
+
+		Session session = null;
+		Transaction transaction = null;
+		boolean flag = false;
+		String id = null;
+
+		try {
+		    session = HibernateMySQLUtil.getSession();
+
+		    if (session != null) {
+		        transaction = session.beginTransaction();
+
+		        Student student = new Student();
+		        student.setSaddress("RCB");
+		        student.setSage(35);
+		        student.setSname("Kohli");
+
+		        id = (String) session.save(student);
+
+		        transaction.commit();  // ✅ direct yaha commit
+		        System.out.println("Inserted with id :: " + id);
+		    }
+
+		} catch (Exception e) {
+		    e.printStackTrace();
+
+		    if (transaction != null) {
+		        transaction.rollback(); // ✅ safe rollback
+		    }
+		}
+			HibernateMySQLUtil.closeSession(session);
+			HibernateMySQLUtil.closeSessionFactory();
+		}
+
+	}
+
+

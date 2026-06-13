@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_07_03_2023\HB-19-MergeOperationApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_07_03_2023\HB-20-ConnectionPool"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_07_03_2023\HB-18-HibernateCaching-L2"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_07_03_2023\HB-17-HibernateCachingApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_07_03_2023\HB-16-HibernateTimeStampingApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_06_03_2023\HB-15-HibernateVersioningApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_06_03_2023\HB-14-HibernateDateOperation"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_06_03_2023\HB-13-HibernateCompositeIdApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_06_03_2023\HB-12-Hibernate-CustomGeneratorsApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSource_code_06_03_2023\HB-11-Hibernate-JPAGeneratorsApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSourceCode_03_03_2023\HB-10-Hibernate-GeneratorsApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSourceCode_03_03_2023\HB09-Configuration-Setup-App"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSourceCode_03_03_2023\HB08-DB-Entity-Synchronization"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Program Examples\HB07-LoadAndDeleteApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Program Examples\HB06-SaveOrUpdateApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSourceCode_02_03_2023\HB04-LoadApp"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Note\HibernateSourceCode_02_03_2023"/>
+			<item value="C:\Users\NARENDAR\Desktop\Ineoron Java\Advance Java\Hibernate\Program Examples\HB05-UpdateApp"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="330"/>
+			<item key="DIALOG_Y_ORIGIN" value="7"/>
+			<item key="DIALOG_WIDTH" value="891"/>
+			<item key="DIALOG_HEIGHT" value="637"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

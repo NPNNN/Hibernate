@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy Project &apos;HB01_SaveApp&apos;" description="Copy Project &apos;HB01_SaveApp&apos;" destination="C:/Users/NARENDAR/Desktop/Ineoron Java/Advance Java/Hibernate/Program Examples" element="/HB01_SaveApp" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="HB02_PersistApp" stamp="1773385763666"/>&#x0A;<refactoring comment="Copy Project &apos;HB02_PersistApp&apos;" description="Copy Project &apos;HB02_PersistApp&apos;" destination="C:/Users/NARENDAR/Desktop/Ineoron Java/Advance Java/Hibernate/Program Examples" element="/HB02_PersistApp" flags="7" id="org.eclipse.ltk.core.refactoring.copyproject.resource" name="HB03_GET" stamp="1773466987634"/>
+</session>
